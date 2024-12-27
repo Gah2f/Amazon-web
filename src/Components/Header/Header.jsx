@@ -48,6 +48,7 @@ const [{basket},dispatch]=useContext(DataContext)
              
               <select name="" id="">
                 <option value="">EN</option>
+                <option value="">AM</option>
               </select>
             </div>
           <a href=""> 
